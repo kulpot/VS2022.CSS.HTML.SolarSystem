@@ -18,6 +18,23 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="1.png" />
+    <Image Include="10.png" />
+    <Image Include="2.png" />
+    <Image Include="3.png" />
+    <Image Include="4.png" />
+    <Image Include="5.png" />
+    <Image Include="6.png" />
+    <Image Include="7.png" />
+    <Image Include="8.png" />
+    <Image Include="9.png" />
+    <Image Include="Bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="index.html" />
+    <None Include="style.css" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
